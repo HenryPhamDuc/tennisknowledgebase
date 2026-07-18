@@ -1,0 +1,54 @@
+site_name: Tennis Knowledge Base
+site_url: https://henryphamduc.github.io/tenniskb/
+repo_url: https://github.com/HenryPhamDuc/tenniskb
+edit_uri: edit/master/docs/
+
+theme:
+  name: material
+  custom_dir: docs/theme
+  palette:
+    primary: teal
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.prune
+    - navigation.indexes
+    - content.code.copy
+    - search.highlight
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/css/enhancements.css
+  - assets/css/phase5.css
+
+extra:
+  generator: false
+
+copyright: © 2026 Henry Pham · Tennis Future Lab Research · All contents are for educational purpose.
+
+use_directory_urls: false
+
+nav:
+  - Home: index.md
