@@ -3,9 +3,26 @@ title: English Content
 description: English-language tennis coaching materials — technique, tactics, and neural control theory.
 ---
 
-# Tennis Knowledge Base (English)
+# 🎾 Tennis Knowledge Base
 
-This is the English section of the Tennis Knowledge Base. Here you'll find coaching materials written in natural, direct English — no AI-slop, no emoji, no affiliate-marketing vibes.
+Welcome to the English version of the Tennis Knowledge Base.
+
+I wrote this manual for myself first. When I started, I had been playing tennis for years but still didn't understand why my forehand kept sailing long, why my elbow hurt at age 45, why the pros made everything look so effortless. I read a lot of books, watched a lot of videos, took a coaching course in Canada, and asked a lot of friends who play better than me. Most of what I write here is a synthesis of all that.
+
+You play at the 3.5 level, want to get to 4.0, and you're over 50. You're not interested in generic advice like "hit out in front" or "use your legs for power." You want to play another 20 years without pain.
+
+The one thing I want to say before you read further: tennis is not a hammer sport — it's a whip sport. And you're playing a 20-year sport.
+
+In this manual, you'll find:
+
+- How I fixed my forehand (L-angle + late acceleration).
+- How I took my serve from 85 to 95 mph at age 53.
+- Grip-pressure rules I used to make my elbow pain go away.
+- Mental rituals that keep me from choking at 5-5.
+
+Every technique here has been tested on the body of a recreational player over 50. I don't write theory for its own sake. I write bilingual EN–VI so my Vietnamese friends can read it too.
+
+Read the manual (about 1.5 hours). Pick one section to focus on for 2 weeks. Drill it. Then move to the next one. Print the cheat sheet, drop it in your racket bag, take it to the court.
 
 ## Choose Your Level
 
