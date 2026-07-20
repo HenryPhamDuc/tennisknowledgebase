@@ -18,11 +18,11 @@ Phần nâng cao dành cho những người chơi có nền tảng vững chắc
 ## Chọn Đường Dẫn Của Bạn
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
-  <a href="basics/index.md" style="padding: 1.5rem; background: #009688; color: white; text-decoration: none; border-radius: 6px;">
+  <a href="basics/index.html" style="padding: 1.5rem; background: #009688; color: white; text-decoration: none; border-radius: 6px;">
     <h3 style="margin: 0 0 0.5rem 0;">Cơ Bản</h3>
     <p style="margin: 0; opacity: 0.9;">Khái niệm chiến thuật cốt lõi, mẫu hình phổ biến, và nền tảng tâm lý thi đấu.</p>
   </a>
-  <a href="deep-dives/index.md" style="padding: 1.5rem; background: #3f51b5; color: white; text-decoration: none; border-radius: 6px;">
+  <a href="deep-dives/index.html" style="padding: 1.5rem; background: #3f51b5; color: white; text-decoration: none; border-radius: 6px;">
     <h3 style="margin: 0 0 0.5rem 0;">Chuyên Sâu</h3>
     <p style="margin: 0; opacity: 0.9;">Nhận thức thể hiện, lý thuyết điều khiển thần kinh, fascia, và khoa học đằng sau "cảm giác."</p>
   </a>

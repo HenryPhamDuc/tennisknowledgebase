@@ -1,6 +1,6 @@
 site_name: Tennis Knowledge Base
-site_url: https://henryphamduc.github.io/tenniskb/
-repo_url: https://github.com/HenryPhamDuc/tenniskb
+site_url: https://henryphamduc.github.io/tennisknowledgebase/
+repo_url: https://github.com/HenryPhamDuc/tennisknowledgebase
 edit_uri: edit/master/docs/
 
 theme:

@@ -10,10 +10,10 @@ This is a bilingual tennis resource — English and Vietnamese — built from th
 ## Choose Your Language
 
 <div style="display: flex; gap: 1rem; margin: 2rem 0;">
-  <a href="en/index.md" style="flex: 1; padding: 1.5rem; background: linear-gradient(135deg, #009688 0%, #3f51b5 100%); color: white; text-decoration: none; border-radius: 8px; text-align: center; font-size: 1.25rem; font-weight: bold;">
+  <a href="en/index.html" style="flex: 1; padding: 1.5rem; background: linear-gradient(135deg, #009688 0%, #3f51b5 100%); color: white; text-decoration: none; border-radius: 8px; text-align: center; font-size: 1.25rem; font-weight: bold;">
     English<br><small>Start here for English content</small>
   </a>
-  <a href="vi/index.md" style="flex: 1; padding: 1.5rem; background: linear-gradient(135deg, #009688 0%, #3f51b5 100%); color: white; text-decoration: none; border-radius: 8px; text-align: center; font-size: 1.25rem; font-weight: bold;">
+  <a href="vi/index.html" style="flex: 1; padding: 1.5rem; background: linear-gradient(135deg, #009688 0%, #3f51b5 100%); color: white; text-decoration: none; border-radius: 8px; text-align: center; font-size: 1.25rem; font-weight: bold;">
     Tiếng Việt<br><small>Bắt đầu ở đây cho nội dung tiếng Việt</small>
   </a>
 </div>
@@ -32,9 +32,9 @@ No dead ends. No mysterious folders. Just clear paths to what you need.
 
 | Level | English | Vietnamese | What's Inside |
 |-------|---------|------------|---------------|
-| **Foundation** | <a href="en/foundation/index.md">Foundation</a> | <a href="vi/foundation/index.md">Nền Tảng</a> | Grip, forehand, backhand, footwork, basic strokes |
-| **Advanced** | <a href="en/advanced/index.md">Advanced</a> | <a href="vi/advanced/index.md">Nâng Cao</a> | Tactics, patterns, mental game, doubles strategy |
-| **Elite** | <a href="en/elite/index.md">Elite</a> | <a href="vi/elite/index.md">Cao Cấp</a> | Constraint-led learning, embodied cognition, self-coaching |
+| **Foundation** | <a href="en/foundation/index.html">Foundation</a> | <a href="vi/foundation/index.html">Nền Tảng</a> | Grip, forehand, backhand, footwork, basic strokes |
+| **Advanced** | <a href="en/advanced/index.html">Advanced</a> | <a href="vi/advanced/index.html">Nâng Cao</a> | Tactics, patterns, mental game, doubles strategy |
+| **Elite** | <a href="en/elite/index.html">Elite</a> | <a href="vi/elite/index.html">Cao Cấp</a> | Constraint-led learning, embodied cognition, self-coaching |
 
 ## About This Site
 

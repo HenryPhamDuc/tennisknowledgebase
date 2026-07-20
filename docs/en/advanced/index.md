@@ -18,11 +18,11 @@ The advanced tier is for players who have solid fundamentals and want to underst
 ## Choose Your Path
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
-  <a href="basics/index.md" style="padding: 1.5rem; background: #009688; color: white; text-decoration: none; border-radius: 6px;">
+  <a href="basics/index.html" style="padding: 1.5rem; background: #009688; color: white; text-decoration: none; border-radius: 6px;">
     <h3 style="margin: 0 0 0.5rem 0;">Basics</h3>
     <p style="margin: 0; opacity: 0.9;">Core tactical concepts, common patterns, and mental game fundamentals.</p>
   </a>
-  <a href="deep-dives/index.md" style="padding: 1.5rem; background: #3f51b5; color: white; text-decoration: none; border-radius: 6px;">
+  <a href="deep-dives/index.html" style="padding: 1.5rem; background: #3f51b5; color: white; text-decoration: none; border-radius: 6px;">
     <h3 style="margin: 0 0 0.5rem 0;">Deep Dives</h3>
     <p style="margin: 0; opacity: 0.9;">Embodied cognition, neural control theory, fascia, and the science behind "feel."</p>
   </a>

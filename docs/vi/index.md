@@ -10,15 +10,15 @@ description: Tài liệu huấn luyện quần vợt bằng tiếng Việt — k
 ## Chọn Cấp Độ Của Bạn
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
-  <a href="foundation/index.md" style="padding: 1.5rem; background: linear-gradient(135deg, #009688 0%, #3f51b5 100%); color: white; text-decoration: none; border-radius: 8px;">
+  <a href="foundation/index.html" style="padding: 1.5rem; background: linear-gradient(135deg, #009688 0%, #3f51b5 100%); color: white; text-decoration: none; border-radius: 8px;">
     <h3 style="margin: 0 0 0.5rem 0; font-size: 1.5rem;">Nền Tảng</h3>
     <p style="margin: 0; opacity: 0.9;">Tay cầm, forehand, backhand, di chuyển — những kỹ thuật cơ bản mọi người chơi cần.</p>
   </a>
-  <a href="advanced/index.md" style="padding: 1.5rem; background: linear-gradient(135deg, #009688 0%, #3f51b5 100%); color: white; text-decoration: none; border-radius: 8px;">
+  <a href="advanced/index.html" style="padding: 1.5rem; background: linear-gradient(135deg, #009688 0%, #3f51b5 100%); color: white; text-decoration: none; border-radius: 8px;">
     <h3 style="margin: 0 0 0.5rem 0; font-size: 1.5rem;">Nâng Cao</h3>
     <p style="margin: 0; opacity: 0.9;">Chiến thuật, mẫu hình, tâm lý thi đấu, và chiến lược đánh đôi cho người chơi 3.5+.</p>
   </a>
-  <a href="elite/index.md" style="padding: 1.5rem; background: linear-gradient(135deg, #009688 0%, #3f51b5 100%); color: white; text-decoration: none; border-radius: 8px;">
+  <a href="elite/index.html" style="padding: 1.5rem; background: linear-gradient(135deg, #009688 0%, #3f51b5 100%); color: white; text-decoration: none; border-radius: 8px;">
     <h3 style="margin: 0 0 0.5rem 0; font-size: 1.5rem;">Cao Cấp</h3>
     <p style="margin: 0; opacity: 0.9;">Học tập theo ràng buộc, nhận thức thể hiện, hệ thống tự huấn luyện.</p>
   </a>
