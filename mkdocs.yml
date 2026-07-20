@@ -1,7 +1,8 @@
 site_name: Tennis Knowledge Base
 site_url: https://henryphamduc.github.io/tennisknowledgebase/
-repo_url: https://github.com/HenryPhamDuc/tennisknowledgebase
 edit_uri: edit/master/docs/
+exclude_docs: |
+  theme/
 
 theme:
   name: material
@@ -15,6 +16,8 @@ theme:
     - navigation.expand
     - navigation.prune
     - navigation.indexes
+    - navigation.path
+    - navigation.top
     - content.code.copy
     - search.highlight
 
@@ -42,13 +45,18 @@ markdown_extensions:
 extra_css:
   - assets/css/enhancements.css
   - assets/css/phase5.css
+  - assets/css/lang-toggle.css
 
 extra:
   generator: false
+  alternate:
+    - name: English
+      link: /tennisknowledgebase/en/
+      lang: en
+    - name: Tiếng Việt
+      link: /tennisknowledgebase/vi/
+      lang: vi
 
 copyright: © 2026 Henry Pham · Tennis Future Lab Research · All contents are for educational purpose.
 
 use_directory_urls: false
-
-nav:
-  - Home: index.md
