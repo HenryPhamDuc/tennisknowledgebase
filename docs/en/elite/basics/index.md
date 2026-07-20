@@ -11,11 +11,11 @@ This section contains elite-level tennis content focused on basics.
 
 <ul>
 <li><a href="10 Self-Coaching Discipline/index.html">10 Self Coaching Discipline</a></li>
-<li><a href="Choking and Amygdala ΓÇö Exposure Therapy Protocol and Your Anti-Choking Kit/index.html">Choking And Amygdala Γçö Exposure Therapy Protocol And Your Anti Choking Kit</a></li>
+<li><a href="Choking and Amygdala — Exposure Therapy Protocol and Your Anti-Choking Kit/index.html">Choking And Amygdala — Exposure Therapy Protocol And Your Anti Choking Kit</a></li>
 <li><a href="Foundations-and-Grip-Coaching-Guide/index.html">Foundations And Grip Coaching Guide</a></li>
 <li><a href="Grip-Change-Map-Coaching-Guide/index.html">Grip Change Map Coaching Guide</a></li>
 <li><a href="Grip-Pressure-Coaching-Guide/index.html">Grip Pressure Coaching Guide</a></li>
-<li><a href="HRV Dashboard ΓÇö Your Daily Bio-Informed Decision System/index.html">Hrv Dashboard Γçö Your Daily Bio Informed Decision System</a></li>
+<li><a href="HRV Dashboard — Your Daily Bio-Informed Decision System/index.html">Hrv Dashboard — Your Daily Bio Informed Decision System</a></li>
 <li><a href="Head-Position-and-Vestibular-Coaching-Guide/index.html">Head Position And Vestibular Coaching Guide</a></li>
 <li><a href="Kinh-and-Mushin-Eastern-Western-Synthesis/index.html">Kinh And Mushin Eastern Western Synthesis</a></li>
 <li><a href="Lob-and-Overhead-Coaching-Guide/index.html">Lob And Overhead Coaching Guide</a></li>

@@ -10,7 +10,7 @@ This section contains foundational tennis content focused on basics.
 ## Topics in This Section
 
 <ul>
-<li><a href="1-Page Match Pocket Card ΓÇö The Complete Grip System/index.html">1 Page Match Pocket Card Γçö The Complete Grip System</a></li>
+<li><a href="1-Page Match Pocket Card — The Complete Grip System/index.html">1 Page Match Pocket Card — The Complete Grip System</a></li>
 <li><a href="Backhand-The-Mirror-The-Whip-The-Slice/index.html">Backhand The Mirror The Whip The Slice</a></li>
 <li><a href="Complete Tennis Manual - Master Reference v2/index.html">Complete Tennis Manual   Master Reference V2</a></li>
 <li><a href="Continental Grip/index.html">Continental Grip</a></li>
@@ -32,7 +32,7 @@ This section contains foundational tennis content focused on basics.
 <li><a href="Racket-Embodiment/index.html">Racket Embodiment</a></li>
 <li><a href="Return-of-Serve-Coaching-Guide/index.html">Return Of Serve Coaching Guide</a></li>
 <li><a href="Slice Approach - The Senior-Friendly Way to the Net/index.html">Slice Approach   The Senior Friendly Way To The Net</a></li>
-<li><a href="Slice Variations ΓÇö The 7-Shot Swiss Army Knife/index.html">Slice Variations Γçö The 7 Shot Swiss Army Knife</a></li>
+<li><a href="Slice Variations — The 7-Shot Swiss Army Knife/index.html">Slice Variations — The 7 Shot Swiss Army Knife</a></li>
 <li><a href="Slice-Approach-Coaching-Guide/index.html">Slice Approach Coaching Guide</a></li>
 <li><a href="Slice-Low-Ball-Variation/index.html">Slice Low Ball Variation</a></li>
 <li><a href="Slice-Quick-Reference-Cheat-Sheet/index.html">Slice Quick Reference Cheat Sheet</a></li>
